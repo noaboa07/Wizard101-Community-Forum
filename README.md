@@ -53,6 +53,9 @@ Here’s a visual walkthrough of the implemented features:
 ## Notes 📝
 The most challenging part of this project was getting the **comment functionality** to work correctly. I struggled with linking comments to their corresponding posts through the `post_id`. Initially, comments would either store a null value or appear on every post, rather than being correctly tied to the post they were meant for. After some debugging and adjusting the Supabase tables, I successfully resolved the issue, making the comment system functional.
 
+**Noah Russell** | Master of Science in AI (May 2026)
+[LinkedIn](https://www.linkedin.com/in/noah-russell-61103128a/) | [Email](mailto:noahrussell2004@gmail.com)
+
 ---
 
 ## License 📜
